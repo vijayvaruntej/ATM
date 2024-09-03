@@ -1,0 +1,20 @@
+ATM Machine Simulation in Java
+This project is a simple ATM machine simulation written in Java. It allows users to perform basic banking operations like checking their account balance, withdrawing money, and depositing money. The program is designed for educational purposes to demonstrate basic Java programming concepts.
+
+How It Works
+PIN Verification: The user is prompted to enter a PIN (default is 123) to access the ATM functions.
+Main Menu: After entering the correct PIN, the user is presented with a menu of options:
+Check Balance: Displays the current account balance.
+Withdraw Money: Allows the user to withdraw a specified amount, if funds are sufficient.
+Deposit Money: Allows the user to deposit money into their account.
+Exit: Exits the program.
+Getting Started
+To run the program:
+
+Clone the repository to your local machine.
+Compile the Java files using javac ATMMachine.java.
+Run the program with java ATMMachine.
+Requirements
+Java Development Kit (JDK) installed.
+Author
+Vijay Varun Tej
